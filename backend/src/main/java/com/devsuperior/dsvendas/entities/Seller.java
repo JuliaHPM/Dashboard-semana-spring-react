@@ -24,9 +24,9 @@ public class Seller {
 
     }
 
-    public Seller(Long id, String nome) {
+    public Seller(Long id, String name) {
         this.id = id;
-        this.name = nome;
+        this.name = name;
     }
 
     public Long getId() {
